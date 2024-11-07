@@ -16,6 +16,9 @@ Here is the list of projects:
 - [RF Blog CMS: a blog CMS app using Node.js](https://github.com/rakifsul/rf_blog_cms).
 - [RF Paste Share: a simple pastebin app using Node.js](https://github.com/rakifsul/rf_paste_share).
 - [RF Advanced Todo: an advanced todo app using Node.js and React](https://github.com/rakifsul/rf_react_advanced_todo).
+- [RF WR CPT Relationship: Custom Post Type Relationship Plugin Example for WordPress](https://github.com/rakifsul/rf_wr_cpt_relationship).
+- [RF WR Todo List: Todo List Plugin for WordPress](https://github.com/rakifsul/rf_wr_todo_list)
+- [RF CI CRUD Template: CRUD Template for CodeIgniter 4](https://github.com/rakifsul/rf_ci_crud_template)
 
 ## Project Ideas
 
@@ -51,6 +54,9 @@ Berikut ini daftar project-nya:
 - [RF Blog CMS: aplikasi blog CMS menggunakan Node.js](https://github.com/rakifsul/rf_blog_cms).
 - [RF Paste Share: aplikasi pastebin sederhana menggunakan Node.js](https://github.com/rakifsul/rf_paste_share).
 - [RF Advanced Todo: aplikasi todo list dengan Node.js dan React](https://github.com/rakifsul/rf_react_advanced_todo).
+- [RF WR CPT Relationship: Custom Post Type Relationship Plugin Example untuk WordPress](https://github.com/rakifsul/rf_wr_cpt_relationship).
+- [RF WR Todo List: Todo List Plugin untuk WordPress](https://github.com/rakifsul/rf_wr_todo_list)
+- [RF CI CRUD Template: CRUD Template untuk CodeIgniter 4](https://github.com/rakifsul/rf_ci_crud_template)
 
 ## Ide Project
 
